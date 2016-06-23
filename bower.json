@@ -1,0 +1,11 @@
+{
+  "name": "contacts-mean",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "https://github.com/mahidhar2007/contact-mean",
+  "private": true,
+  "dependencies": {
+    "angular": "^1.5.7"
+  }
+}
